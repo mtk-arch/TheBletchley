@@ -1,0 +1,10 @@
+C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\bin\Debug\TheBatchley.exe.config
+C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\bin\Debug\TheBatchley.exe
+C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\bin\Debug\TheBatchley.pdb
+C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\obj\Debug\TheBatchley.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\obj\Debug\TheBatchley.Properties.Resources.resources
+C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\obj\Debug\TheBatchley.csproj.GenerateResource.cache
+C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\obj\Debug\TheBatchley.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\obj\Debug\TheBatchley.exe
+C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\obj\Debug\TheBatchley.pdb
+C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\obj\Debug\TheBatchley.Form1.resources
