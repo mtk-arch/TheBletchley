@@ -7,4 +7,3 @@ C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\obj\Debug\TheBat
 C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\obj\Debug\TheBatchley.csproj.CoreCompileInputs.cache
 C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\obj\Debug\TheBatchley.exe
 C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\obj\Debug\TheBatchley.pdb
-C:\Users\dimit\Desktop\TheBatchley-test\TheBatchley\TheBatchley\obj\Debug\TheBatchley.Form1.resources
